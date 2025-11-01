@@ -1,6 +1,22 @@
 <h1 align="center">Hi 👋, I'm Sakib</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sakib-hossain-shishir&label=Profile%20views&color=0e75b6&style=flat" alt="sakib-hossain-shishir" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakib-hossain-shishir" alt="sakib-hossain-shishir" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+- 🔭 I’m currently working on **AI and Life Sciences (Including Nano- Robotics)**
+
+- 🌱 I’m currently learning **APIs, Frameworks, Algorithms, Databases**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Sakib-Hossain-shishir](https://github.com/Sakib-Hossain-shishir)
+
+- 📫 How to reach me **Sakib_Hossain_Shishir@outlook.com**
+
+- ⚡ Fun fact **I'm always confused about what I'm doing and Shy about what I have done.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hossain-md sakib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hossain-md sakib" height="30" width="40" /></a>
