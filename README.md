@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sakib</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate Mechanical Engineer and Data Analyst from Bangladesh</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakib-hossain-shishir" alt="sakib-hossain-shishir" /></a> </p>
 
