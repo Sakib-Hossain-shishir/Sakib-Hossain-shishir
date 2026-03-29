@@ -1,28 +1,45 @@
 <h1 align="center">Hi 👋, I'm Sakib</h1>
-<h3 align="center">A passionate Mechanical Engineer and Data Analyst from Bangladesh</h3>
+<h3 align="center">Mechanical Engineer | Simulation | Data-Driven Engineering</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakib-hossain-shishir" alt="sakib-hossain-shishir" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on **AI and Life Sciences (Including Nano- Robotics)**
-
-- 🌱 I’m currently learning **APIs, Frameworks, Algorithms, Databases**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Sakib-Hossain-shishir](https://github.com/Sakib-Hossain-shishir)
-
-- 📫 How to reach me **Sakib_Hossain_Shishir@outlook.com**
-
-- ⚡ Fun fact **I'm always confused about what I'm doing and Shy about what I have done.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/hossain-md sakib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hossain-md sakib" height="30" width="40" /></a>
+<p align="center">
+Focused on solving real engineering problems using simulation, data analysis, and automation.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakib-hossain-shishir&show_icons=true&locale=en&layout=compact" alt="sakib-hossain-shishir" /></p>
+### 🚀 What I Do
+- Build simulation-driven solutions to improve system performance and efficiency  
+- Apply Python and data analysis to optimize engineering workflows  
+- Use FEA and molecular dynamics (LAMMPS) to analyze complex material behavior  
+- Develop automated pipelines and tools to reduce bottlenecks and improve decision-making  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sakib-hossain-shishir&show_icons=true&locale=en" alt="sakib-hossain-shishir" /></p>
+---
+
+### 🛠 Core Skills
+- **Simulation & Engineering:** LAMMPS, ANSYS, Abaqus, MATLAB  
+- **Programming & Data:** Python (NumPy, Pandas, Scikit-learn), SQL  
+- **Design:** SolidWorks, AutoCAD, CREO  
+- **Tools:** Power BI, Excel, Git, Linux, PostgreSQL  
+
+---
+
+### 📂 Featured Projects
+- **Carbon Nanotube Simulation (LAMMPS)**  
+  Simulated mechanical behavior and stress–strain response to evaluate nanoscale material performance  
+
+- **Perovskite (MAPbI₃) Simulation**  
+  Analyzed material stability and performance under varying conditions for solar energy applications  
+
+- **Predictive AI for Steel Lifecycle**  
+  Built a data-driven model to predict material degradation and lifecycle performance  
+
+---
+
+### 📫 Contact
+- Email: Sakib_Hossain_Shishir@outlook.com  
+- LinkedIn: https://linkedin.com/in/hossain-md-sakib  
+
+---
+
+### ⚡ Mindset
+I focus on building practical solutions, improving efficiency, and delivering measurable results—not just running simulations.
